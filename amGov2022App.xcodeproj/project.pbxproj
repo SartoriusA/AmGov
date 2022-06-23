@@ -1,0 +1,588 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AD62A4A428650D3C0036CD11 /* amGov2022AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD62A4A328650D3C0036CD11 /* amGov2022AppApp.swift */; };
+		AD62A4A628650D3C0036CD11 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD62A4A528650D3C0036CD11 /* ContentView.swift */; };
+		AD62A4A828650D400036CD11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD62A4A728650D400036CD11 /* Assets.xcassets */; };
+		AD62A4AB28650D400036CD11 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD62A4AA28650D400036CD11 /* Preview Assets.xcassets */; };
+		AD62A4B528650D410036CD11 /* amGov2022AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD62A4B428650D410036CD11 /* amGov2022AppTests.swift */; };
+		AD62A4BF28650D410036CD11 /* amGov2022AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD62A4BE28650D410036CD11 /* amGov2022AppUITests.swift */; };
+		AD62A4C128650D410036CD11 /* amGov2022AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD62A4C028650D410036CD11 /* amGov2022AppUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AD62A4B128650D410036CD11 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AD62A49828650D3C0036CD11 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AD62A49F28650D3C0036CD11;
+			remoteInfo = amGov2022App;
+		};
+		AD62A4BB28650D410036CD11 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AD62A49828650D3C0036CD11 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AD62A49F28650D3C0036CD11;
+			remoteInfo = amGov2022App;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AD62A4A028650D3C0036CD11 /* amGov2022App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = amGov2022App.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD62A4A328650D3C0036CD11 /* amGov2022AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = amGov2022AppApp.swift; sourceTree = "<group>"; };
+		AD62A4A528650D3C0036CD11 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AD62A4A728650D400036CD11 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AD62A4AA28650D400036CD11 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AD62A4B028650D410036CD11 /* amGov2022AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = amGov2022AppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD62A4B428650D410036CD11 /* amGov2022AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = amGov2022AppTests.swift; sourceTree = "<group>"; };
+		AD62A4BA28650D410036CD11 /* amGov2022AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = amGov2022AppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD62A4BE28650D410036CD11 /* amGov2022AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = amGov2022AppUITests.swift; sourceTree = "<group>"; };
+		AD62A4C028650D410036CD11 /* amGov2022AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = amGov2022AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AD62A49D28650D3C0036CD11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD62A4AD28650D410036CD11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD62A4B728650D410036CD11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AD62A49728650D3C0036CD11 = {
+			isa = PBXGroup;
+			children = (
+				AD62A4A228650D3C0036CD11 /* amGov2022App */,
+				AD62A4B328650D410036CD11 /* amGov2022AppTests */,
+				AD62A4BD28650D410036CD11 /* amGov2022AppUITests */,
+				AD62A4A128650D3C0036CD11 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AD62A4A128650D3C0036CD11 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AD62A4A028650D3C0036CD11 /* amGov2022App.app */,
+				AD62A4B028650D410036CD11 /* amGov2022AppTests.xctest */,
+				AD62A4BA28650D410036CD11 /* amGov2022AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AD62A4A228650D3C0036CD11 /* amGov2022App */ = {
+			isa = PBXGroup;
+			children = (
+				AD62A4A328650D3C0036CD11 /* amGov2022AppApp.swift */,
+				AD62A4A528650D3C0036CD11 /* ContentView.swift */,
+				AD62A4A728650D400036CD11 /* Assets.xcassets */,
+				AD62A4A928650D400036CD11 /* Preview Content */,
+			);
+			path = amGov2022App;
+			sourceTree = "<group>";
+		};
+		AD62A4A928650D400036CD11 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				AD62A4AA28650D400036CD11 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AD62A4B328650D410036CD11 /* amGov2022AppTests */ = {
+			isa = PBXGroup;
+			children = (
+				AD62A4B428650D410036CD11 /* amGov2022AppTests.swift */,
+			);
+			path = amGov2022AppTests;
+			sourceTree = "<group>";
+		};
+		AD62A4BD28650D410036CD11 /* amGov2022AppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				AD62A4BE28650D410036CD11 /* amGov2022AppUITests.swift */,
+				AD62A4C028650D410036CD11 /* amGov2022AppUITestsLaunchTests.swift */,
+			);
+			path = amGov2022AppUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AD62A49F28650D3C0036CD11 /* amGov2022App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD62A4C428650D410036CD11 /* Build configuration list for PBXNativeTarget "amGov2022App" */;
+			buildPhases = (
+				AD62A49C28650D3C0036CD11 /* Sources */,
+				AD62A49D28650D3C0036CD11 /* Frameworks */,
+				AD62A49E28650D3C0036CD11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = amGov2022App;
+			productName = amGov2022App;
+			productReference = AD62A4A028650D3C0036CD11 /* amGov2022App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AD62A4AF28650D410036CD11 /* amGov2022AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD62A4C728650D410036CD11 /* Build configuration list for PBXNativeTarget "amGov2022AppTests" */;
+			buildPhases = (
+				AD62A4AC28650D410036CD11 /* Sources */,
+				AD62A4AD28650D410036CD11 /* Frameworks */,
+				AD62A4AE28650D410036CD11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AD62A4B228650D410036CD11 /* PBXTargetDependency */,
+			);
+			name = amGov2022AppTests;
+			productName = amGov2022AppTests;
+			productReference = AD62A4B028650D410036CD11 /* amGov2022AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AD62A4B928650D410036CD11 /* amGov2022AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD62A4CA28650D410036CD11 /* Build configuration list for PBXNativeTarget "amGov2022AppUITests" */;
+			buildPhases = (
+				AD62A4B628650D410036CD11 /* Sources */,
+				AD62A4B728650D410036CD11 /* Frameworks */,
+				AD62A4B828650D410036CD11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AD62A4BC28650D410036CD11 /* PBXTargetDependency */,
+			);
+			name = amGov2022AppUITests;
+			productName = amGov2022AppUITests;
+			productReference = AD62A4BA28650D410036CD11 /* amGov2022AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AD62A49828650D3C0036CD11 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					AD62A49F28650D3C0036CD11 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					AD62A4AF28650D410036CD11 = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = AD62A49F28650D3C0036CD11;
+					};
+					AD62A4B928650D410036CD11 = {
+						CreatedOnToolsVersion = 13.4.1;
+						TestTargetID = AD62A49F28650D3C0036CD11;
+					};
+				};
+			};
+			buildConfigurationList = AD62A49B28650D3C0036CD11 /* Build configuration list for PBXProject "amGov2022App" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AD62A49728650D3C0036CD11;
+			productRefGroup = AD62A4A128650D3C0036CD11 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AD62A49F28650D3C0036CD11 /* amGov2022App */,
+				AD62A4AF28650D410036CD11 /* amGov2022AppTests */,
+				AD62A4B928650D410036CD11 /* amGov2022AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AD62A49E28650D3C0036CD11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD62A4AB28650D400036CD11 /* Preview Assets.xcassets in Resources */,
+				AD62A4A828650D400036CD11 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD62A4AE28650D410036CD11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD62A4B828650D410036CD11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AD62A49C28650D3C0036CD11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD62A4A628650D3C0036CD11 /* ContentView.swift in Sources */,
+				AD62A4A428650D3C0036CD11 /* amGov2022AppApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD62A4AC28650D410036CD11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD62A4B528650D410036CD11 /* amGov2022AppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AD62A4B628650D410036CD11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD62A4BF28650D410036CD11 /* amGov2022AppUITests.swift in Sources */,
+				AD62A4C128650D410036CD11 /* amGov2022AppUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AD62A4B228650D410036CD11 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AD62A49F28650D3C0036CD11 /* amGov2022App */;
+			targetProxy = AD62A4B128650D410036CD11 /* PBXContainerItemProxy */;
+		};
+		AD62A4BC28650D410036CD11 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AD62A49F28650D3C0036CD11 /* amGov2022App */;
+			targetProxy = AD62A4BB28650D410036CD11 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		AD62A4C228650D410036CD11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AD62A4C328650D410036CD11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AD62A4C528650D410036CD11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"amGov2022App/Preview Content\"";
+				DEVELOPMENT_TEAM = TN6B95XYWS;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = club.sartorius.amGov2022App;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AD62A4C628650D410036CD11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"amGov2022App/Preview Content\"";
+				DEVELOPMENT_TEAM = TN6B95XYWS;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = club.sartorius.amGov2022App;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		AD62A4C828650D410036CD11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TN6B95XYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = club.sartorius.amGov2022AppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/amGov2022App.app/amGov2022App";
+			};
+			name = Debug;
+		};
+		AD62A4C928650D410036CD11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TN6B95XYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = club.sartorius.amGov2022AppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/amGov2022App.app/amGov2022App";
+			};
+			name = Release;
+		};
+		AD62A4CB28650D410036CD11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TN6B95XYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = club.sartorius.amGov2022AppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = amGov2022App;
+			};
+			name = Debug;
+		};
+		AD62A4CC28650D410036CD11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TN6B95XYWS;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = club.sartorius.amGov2022AppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = amGov2022App;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AD62A49B28650D3C0036CD11 /* Build configuration list for PBXProject "amGov2022App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD62A4C228650D410036CD11 /* Debug */,
+				AD62A4C328650D410036CD11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD62A4C428650D410036CD11 /* Build configuration list for PBXNativeTarget "amGov2022App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD62A4C528650D410036CD11 /* Debug */,
+				AD62A4C628650D410036CD11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD62A4C728650D410036CD11 /* Build configuration list for PBXNativeTarget "amGov2022AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD62A4C828650D410036CD11 /* Debug */,
+				AD62A4C928650D410036CD11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD62A4CA28650D410036CD11 /* Build configuration list for PBXNativeTarget "amGov2022AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD62A4CB28650D410036CD11 /* Debug */,
+				AD62A4CC28650D410036CD11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AD62A49828650D3C0036CD11 /* Project object */;
+}
