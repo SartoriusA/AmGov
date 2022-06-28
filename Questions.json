@@ -29,4 +29,14 @@
 		],
 		"correct": 2
 	}
+	{
+		"question": "What branch of Government makes laws?",
+		"answers": [
+			"Judicial",
+			"States",
+			"Executive",
+			"Legislative"
+		],
+		"correct": 3
+	}
 ]
