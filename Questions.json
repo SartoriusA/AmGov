@@ -18,5 +18,25 @@
 			"Administrative"
 		],
 		"correct": 1
+	},
+	{
+		"question": "Who elects the President of the United States?",
+		"answers": [
+			"Congress",
+			"The People",
+			"The Electoral College",
+			"The House of Representatives"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What branch of Government makes laws?",
+		"answers": [
+			"Judicial",
+			"States",
+			"Executive",
+			"Legislative"
+		],
+		"correct": 3
 	}
 ]
