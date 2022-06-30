@@ -38,5 +38,205 @@
 			"Legislative"
 		],
 		"correct": 3
-	}
+	},
+	{
+		"question": "The Constitution prescribes that the Senate be composed of how many senators from each State?",
+		"answers": [
+			"2",
+			"10",
+			"12",
+			"It depends on the state's population"
+		],
+		"correct": 0
+	},
+	{
+		"question": "How many members are in the House of Representatives?",
+		"answers": [
+			"435",
+			"1000",
+			"150",
+			"It changes every year"
+		],
+		"correct": 0
+	},
+	{
+		"question": "How many members represent Missouri in the House of Representatives?",
+		"answers": [
+			"6",
+			"8",
+			"10",
+			"12"
+		],
+		"correct": 1
+	},
+	{
+		"question": "If both the President and the Vice President can no longer serve, who becomes President?",
+		"answers": [
+			"Speaker of the House",
+			"Secretary of State",
+			"Attorney General",
+			"Tempore of the Senate"
+		],
+		"correct": 0
+	},
+	{
+		"question": "In what year were women given the right to vote?",
+		"answers": [
+			"1918",
+			"1920",
+			"1932",
+			"1940"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What movement tried to end racial discrimination?",
+		"answers": [
+			"Civil Rights Movement",
+			"Inclusive Human Rights Movement",
+			"Women's Suffrage Movement",
+			"The Labor Movement"
+		],
+		"correct": 0
+	},
+	{
+		"question": "In the case of a tied vote in the U.S. Senate, the deciding vote is cast by…",
+		"answers": [
+			"The President",
+			"The Vice President",
+			"The Speaker of the House",
+			"The House of Representatives"
+		],
+		"correct": 1
+	},
+	{
+		"question": "How is the number of terms a president can serve determined?",
+		"answers": [
+			"The 8th Amendment of the Constitution",
+			"The 12th Amendment of the Constitution",
+			"The 20th Amendment of the Constitution",
+			"The 22nd Amendment of the Constitution"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which of the following rights is guaranteed by the First Amendment to the Constitution?",
+		"answers": [
+			"The right to bear arms",
+			"The right to remain silent",
+			"The right of free speech",
+			"The right to protect from unreasonable searches and seizures by the government"
+		],
+		"correct": 2
+	},
+	{
+		"question": "How many justices are on the Supreme Court?",
+		"answers": [
+			"7",
+			"9",
+			"11",
+			"13"
+		],
+		"correct": 1
+	},
+	{
+		"question": "As of September 1, 2021, abortion is illegal in what state once a fetal heartbeat can be detected?",
+		"answers": [
+			"Texas",
+			"California",
+			"Missouri",
+			"Florida"
+		],
+		"correct": 0
+	},
+	{
+		"question": "How long is a U.S. Senator’s term?",
+		"answers": [
+			"2 years",
+			"4 years",
+			"6 years",
+			"8 years"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What position does the Vice President hold in the Legislative branch?",
+		"answers": [
+			"President of the Senate",
+			"Speaker of the House",
+			"Lord Chancellor",
+			"Majority Whip"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who is the only president to serve two non-consecutive terms?",
+		"answers": [
+			"George Washington",
+			"Abraham Lincoln",
+			"Grover Cleavland",
+			"Andrew Johnson"
+		],
+		"correct": 2
+	},
+	{
+		"question": "When two or more candidates are running from the same political party, what must a candidate win in order to be the sole candidate for their political party?",
+		"answers": [
+			"The Primary",
+			"The Main Election",
+			"A Vote of Confidence",
+			"The Referendum"
+		],
+		"correct": 0
+	},
+	{
+		"question": "After becoming a country, our first laws were called...",
+		"answers": [
+			"The Declaration",
+			"The Articles of Confederation",
+			"The Gettysburg Address",
+			"The Constitution"
+		],
+		"correct": 1
+	},
+	{
+		"question": "The Constitution was signed in what year?",
+		"answers": [
+			"1776",
+			"1789",
+			"1787",
+			"1791"
+		],
+		"correct": 2
+	},
+	{
+		"question": "The Legislative Branch...",
+		"answers": [
+			"Sees that the laws are carried out",
+			"Decides what the laws mean according to the Constitution",
+			"Makes the laws",
+			"All of these"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who was president from 1789 to 1797?",
+		"answers": [
+			"George Washington",
+			"John Adams",
+			"Andrew Jackson",
+			"James Buchanan"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who was president from 1797 to 1801?",
+		"answers": [
+			"James Monroe",
+			"John Adams",
+			"Woodrow Wilson",
+			"Richard Nixon"
+		],
+		"correct": 1
+	},
 ]
