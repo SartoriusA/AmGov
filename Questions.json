@@ -38,5 +38,15 @@
 			"Legislative"
 		],
 		"correct": 3
+	},
+	{
+		"question": "How many members are in the house of representatives from Missouri?",
+		"answers": [
+			"6",
+			"8",
+			"10",
+			"12"
+		],
+		"correct": 1
 	}
 ]
