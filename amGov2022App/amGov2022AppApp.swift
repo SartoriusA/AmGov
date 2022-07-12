@@ -7,11 +7,21 @@
 
 import SwiftUI
 
+enum AppViews: Int{
+    case home, game, leaderbaord, credits
+}
+
+class CurrentView: ObservableObject{
+    @Published var currentView: AppViews = .home
+}
+
 @main
 struct amGov2022AppApp: App {
+    var currentView = CurrentView()
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(currentView)
         }
     }
 }

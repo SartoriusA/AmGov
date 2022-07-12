@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD2FBC2A287CCE9D002679C0 /* questions.json in Resources */ = {isa = PBXBuildFile; fileRef = AD2FBC29287CCE9D002679C0 /* questions.json */; };
+		AD2FBC2C287CD685002679C0 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FBC2B287CD685002679C0 /* Home.swift */; };
+		AD2FBC2E287CD724002679C0 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FBC2D287CD724002679C0 /* Game.swift */; };
+		AD2FBC30287CD7E2002679C0 /* LeaderBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FBC2F287CD7E2002679C0 /* LeaderBoard.swift */; };
+		AD2FBC32287CD7F4002679C0 /* Credits.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2FBC31287CD7F4002679C0 /* Credits.swift */; };
 		AD62A4A428650D3C0036CD11 /* amGov2022AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD62A4A328650D3C0036CD11 /* amGov2022AppApp.swift */; };
 		AD62A4A628650D3C0036CD11 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD62A4A528650D3C0036CD11 /* ContentView.swift */; };
 		AD62A4A828650D400036CD11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD62A4A728650D400036CD11 /* Assets.xcassets */; };
@@ -35,6 +40,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AD2FBC29287CCE9D002679C0 /* questions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = questions.json; sourceTree = "<group>"; };
+		AD2FBC2B287CD685002679C0 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		AD2FBC2D287CD724002679C0 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		AD2FBC2F287CD7E2002679C0 /* LeaderBoard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeaderBoard.swift; sourceTree = "<group>"; };
+		AD2FBC31287CD7F4002679C0 /* Credits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Credits.swift; sourceTree = "<group>"; };
 		AD62A4A028650D3C0036CD11 /* amGov2022App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = amGov2022App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD62A4A328650D3C0036CD11 /* amGov2022AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = amGov2022AppApp.swift; sourceTree = "<group>"; };
 		AD62A4A528650D3C0036CD11 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,10 +107,15 @@
 			isa = PBXGroup;
 			children = (
 				AD62A4A328650D3C0036CD11 /* amGov2022AppApp.swift */,
+				ADED454028777E0C009D05F5 /* Questions.swift */,
 				AD62A4A528650D3C0036CD11 /* ContentView.swift */,
+				AD2FBC2B287CD685002679C0 /* Home.swift */,
+				AD2FBC2D287CD724002679C0 /* Game.swift */,
+				AD2FBC2F287CD7E2002679C0 /* LeaderBoard.swift */,
+				AD2FBC31287CD7F4002679C0 /* Credits.swift */,
 				AD62A4A728650D400036CD11 /* Assets.xcassets */,
 				AD62A4A928650D400036CD11 /* Preview Content */,
-				ADED454028777E0C009D05F5 /* Questions.swift */,
+				AD2FBC29287CCE9D002679C0 /* questions.json */,
 			);
 			path = amGov2022App;
 			sourceTree = "<group>";
@@ -234,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD2FBC2A287CCE9D002679C0 /* questions.json in Resources */,
 				AD62A4AB28650D400036CD11 /* Preview Assets.xcassets in Resources */,
 				AD62A4A828650D400036CD11 /* Assets.xcassets in Resources */,
 			);
@@ -261,7 +277,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADED454128777E0C009D05F5 /* Questions.swift in Sources */,
+				AD2FBC30287CD7E2002679C0 /* LeaderBoard.swift in Sources */,
+				AD2FBC2E287CD724002679C0 /* Game.swift in Sources */,
 				AD62A4A628650D3C0036CD11 /* ContentView.swift in Sources */,
+				AD2FBC2C287CD685002679C0 /* Home.swift in Sources */,
+				AD2FBC32287CD7F4002679C0 /* Credits.swift in Sources */,
 				AD62A4A428650D3C0036CD11 /* amGov2022AppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

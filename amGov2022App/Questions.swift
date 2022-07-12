@@ -8,20 +8,29 @@
 import Foundation
 
 
-class QuestionClass {
+class QuestionClass: ObservableObject {
     
-    lazy let questions: [Question]
+    var questions : [Question] {
+        getQuestion()
+    }
+    @Published var score : Int = 0
+    @Published var numberOfQuestions: Int = 0
+    @Published var time: Int = 0
+    @Published var correct: Int = 0
+    @Published var gameOver: Bool = false
+    var accuracy: Int {
+        guard numberOfQuestions != 0 else {return 0}
+        return Int((Double(score) / Double(numberOfQuestions)) * 100)
+    }
     
     init (){
-        questions = getQuestion()
+        
     }
     
     func getQuestion() -> [Question] {
         let decoder = JSONDecoder()
         let out: [Question]
         let url = Bundle.main.url(forResource: "questions", withExtension: "json")!
-
-        
         do{
             out = try decoder.decode([Question].self, from: Data(contentsOf: url))
         }
@@ -29,8 +38,19 @@ class QuestionClass {
             print(DecodingError)
             fatalError()
         }
-            
         return out
+    }
+    
+    func questionAnsered(question: Question, answer: Int) -> Bool {
+        if question.correct == answer{
+            score += 1
+            numberOfQuestions += 1
+            return true
+        }
+        else {
+            numberOfQuestions += 1
+            return false
+        }
     }
     
 }

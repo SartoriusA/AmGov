@@ -8,9 +8,18 @@
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject var cv: CurrentView
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        switch cv.currentView{
+        case .home:
+            Home()
+        case .game:
+            Game()
+        case .leaderbaord:
+            LeaderBoard()
+        case .credits:
+            Credits()
+        }
     }
 }
 
