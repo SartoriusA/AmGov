@@ -248,5 +248,115 @@
 			"A Supreme Court Opinion"
 		],
 		"correct" : 2
+	},
+	{
+		"question": "Who was president from 1801 to 1809?",
+		"answers": [
+			"Franklin D. Roosevelt",
+			"Thomas Jefferson",
+			"Martin Van Buren",
+			"Harry S. Truman"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which U.S. President had the code name Eagle?",
+		"answers": [
+			"George Washington",
+			"John Adams",
+			"Bill Clinton",
+			"Ronald Reagan"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which U.S. President had the code name Searchlight?",
+		"answers": [
+			"George Washinton",
+			"Donald Trump",
+			"Joe Biden",
+			"Richard Nixon"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which U.S. President had the code name Deacon?",
+		"answers": [
+			"Jimmy Carter",
+			"Barack Obama",
+			"Joe Biden",
+			"James Buchanan"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which U.S. President had the code name Mogul?",
+		"answers": [
+			"John F. Kennedy",
+			"Donald Trump",
+			"Dwight D. Eisenhower",
+			"Grover Cleveland"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which U.S. President had the code name Celtic?",
+		"answers": [
+			"Warren G. Harding",
+			"Herbert Hoover",
+			"Joe Biden",
+			"Theodore Roosevelt"
+		],
+		"correct": 2
+	},
+	{
+		"question": "How many amendments to the U.S. Constitution are there?",
+		"answers": [
+			"15",
+			"27",
+			"26",
+			"22"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which was a reason that American colonists rebelled against British rule?",
+		"answers": [
+			"High taxes",
+			"Water rights",
+			"Gun rights",
+			"Low wages"
+		],
+		"correct": 0
+	},
+	{
+		"question": "What territory did the United States buy from France in 1803?",
+		"answers": [
+			"Lousiana",
+			"Texas",
+			"Florida",
+			"Alaska"
+		],
+		"correct": 0
+	},
+	{
+		"question": "In what year was Abraham Lincoln assassinated?",
+		"answers": [
+			"1875",
+			"1867",
+			"1865",
+			"1859"
+		],
+		"correct": 2
+	},
+	{
+		"question": "In what year did the Civil War end?",
+		"answers": [
+			"1875",
+			"1867",
+			"1865",
+			"1859"
+		],
+		"correct": 2
 	}
 ]
