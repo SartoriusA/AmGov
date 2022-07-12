@@ -238,5 +238,15 @@
 			"Richard Nixon"
 		],
 		"correct": 1
+	},
+	{
+		"question": "What is the emancipation proclamation an example of?",
+		"answers": [
+			"A Bill",
+			"An act of Congress",
+			"An executive Order",
+			"A Supreme Court Opinion"
+		],
+		"correct" : 2
 	}
 ]
