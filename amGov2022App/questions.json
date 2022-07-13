@@ -250,3 +250,64 @@
 		"correct" : 2
 	}
 ]
+{
+	"question": "What is the emancipation proclamation an example of?",
+	"answers": [
+		"A Bill",
+		"An act of Congress",
+		"An executive Order",
+		"A Supreme Court Opinion"
+	],
+	"correct" : 2
+},
+{
+	"question":"How many amendments are there in the Constitution?",
+	"answers":[
+		"14",
+		"6",
+		"21",
+		"27"
+	],
+	"correct":3
+},
+{
+"question":"What are the first ten amendments called?",
+"answers":[
+	"Bill of Rights",
+	"An act of Congress",
+	"Congress",
+	"There is no special name"
+],
+"correct":0
+}
+{
+"question":"Who is in charge of the Executive branch?",
+"answers":[
+	"Supreme Court",
+	"The House of Representatives",
+	"The Vice President",
+	"The President"
+],
+"correct":3
+}
+{
+"question":"Who will serve the United States of America if the President can't",
+"answers":[
+	"Supreme Court",
+	"The Vice President",
+	"President of the Senate",
+	"The Speaker of the House"
+],
+"correct":1
+}
+{
+"question":"Who represent the United States of America if the President and Vice Present can not?",
+"answers":[
+	"No one will",
+	"Supreme Court",
+	"President of the Senate",
+	"The Speaker of the House"
+],
+"correct":3
+},
+
