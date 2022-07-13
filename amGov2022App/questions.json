@@ -279,7 +279,7 @@
 	"There is no special name"
 ],
 "correct":0
-}
+},
 {
 "question":"Who is in charge of the Executive branch?",
 "answers":[
@@ -289,7 +289,7 @@
 	"The President"
 ],
 "correct":3
-}
+},
 {
 "question":"Who will serve the United States of America if the President can't",
 "answers":[
@@ -299,7 +299,7 @@
 	"The Speaker of the House"
 ],
 "correct":1
-}
+},
 {
 "question":"Who represent the United States of America if the President and Vice Present can not?",
 "answers":[
@@ -309,5 +309,5 @@
 	"The Speaker of the House"
 ],
 "correct":3
-},
+}
 
