@@ -1369,5 +1369,15 @@
 			"All of the above"
 		],
 		"correct": 3
+	},
+	{
+		"question": "Which of the following is not a difference between a Senator and a Representative?",
+		"answers": [
+			"All states send the same number of both to congress",
+			"Both have the same age requirement",
+			"Both are Responsable to the people who elect them",
+			"Both serve the same number or years"
+		],
+		"correct": "2"
 	}
 ]
