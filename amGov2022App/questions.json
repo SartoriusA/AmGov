@@ -1379,5 +1379,205 @@
 			"Both serve the same number or years"
 		],
 		"correct": "2"
+	},
+	{
+		"question": "Who ran for President of the United States with the campaign slogan a chicken in every pot and a car in every garage?",
+		"answers": [
+			"William McKinley",
+			"Woodrow Wilson",
+			"Herbert Hoover",
+			"Calvin Coolidge"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What U.S. President refused to use the telephone while in office?",
+		"answers": [
+			"Herbert Hoover",
+			"Richard Nixon",
+			"Calvin Coolidge",
+			"Warren G. Harding"
+		],
+		"correct": 2
+	},
+	{
+		"question": "John F. Kennedy was the 35th President of the U.S. What does the F stand for?",
+		"answers": [
+			"Frank",
+			"Frederick",
+			"Finlay",
+			"Fitzgerlad"
+		],
+		"correct": 1
+	},
+	{
+		"question": "President Joe Biden was previously Vice President. Who was President at the time?",
+		"answers": [
+			"Barack Obama",
+			"Richard Nixon",
+			"Bill Clinton",
+			"He has never been Vice President"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who preceded George W. Bush in 2009 to become the 44th President?",
+		"answers": [
+			"Joe Biden",
+			"George H.W. Bush",
+			"Barack Obama",
+			"Bill Clinton"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What is the name of the first woman Vice-President?",
+		"answers": [
+			"Elizabeth Warren",
+			"Kamala Harris",
+			"Hillary Clinton",
+			"Dianne Feinstein"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which of the first 12 presidents was the first to not own slaves?",
+		"answers": [
+			"George Washington",
+			"John Adams",
+			"Thomas Jefferson",
+			"James Madison"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which president was the last to own slaves?",
+		"answers": [
+			"Ulysses S. Grant",
+			"Rutherford B. Hayes",
+			"James A. Garfield",
+			"Chester Alan Arthur"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who is the oldest living president?",
+		"answers": [
+			"Joe Biden",
+			"Jimmy Carter",
+			"Bill Clinton",
+			"George W. Bush"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Who was the first president to die in office?",
+		"answers": [
+			"Zachary Taylor",
+			"Abraham Lincoln",
+			"William Henry Harrison",
+			"James A. Garfield"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which president warned agaisnt political parties, long-term foriegn alliances and strict geographical divides in his farewell address?",
+		"answers": [
+			"George Washington",
+			"John Adams",
+			"Thomas Jefferson",
+			"James Madison"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which president survived an assassination attempt 69 days into his term?",
+		"answers": [
+			"Abraham Lincoln",
+			"John F. Kennedy",
+			"Ronald Reagan",
+			"George W. Bush"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which president was described as so honest that if you turned his soul inside out there would not be a spot on it?",
+		"answers": [
+			"James Monroe",
+			"Abraham Lincoln",
+			"George Washington",
+			"Zachary Taylor"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who was the first Roman Catholic president?",
+		"answers": [
+			"James A. Garfield",
+			"Rutherford B. Hayes",
+			"Martin Van Buren",
+			"John F. Kennedy"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which president was elected to his second term after suffering a heart attack?",
+		"answers": [
+			"Franklin D. Roosevelt",
+			"Lyndon B. Johnson",
+			"Ronald Reagan",
+			"Dwight D. Eisenhower"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which president is the first to have a rescue dog while in office?",
+		"answers": [
+			"Ronald Reagan",
+			"George H.W. Bush",
+			"Joe Biden",
+			"Barack Obama"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who was the first president to be born in the United States?",
+		"answers": [
+			"William Henry Harrison",
+			"Marin Van Buren",
+			"Andrew Jackson",
+			"John Quincy Adams"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who was the youngest person to become president?",
+		"answers": [
+			"John F. Kennedy",
+			"Bill Clinton",
+			"Ulysses S. Grant",
+			"Theodore Roosevelt"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Who is the youngest living president?",
+		"answers": [
+			"Joe Biden",
+			"Donald Trump",
+			"Barack Obama",
+			"George W. Bush"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who is the oldest person to become president?",
+		"answers": [
+			"William H. Harrison",
+			"Ronald Reagan",
+			"Donald Trump",
+			"Joe Biden"
+		],
+		"correct": 3
 	}
 ]
