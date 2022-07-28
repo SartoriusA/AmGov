@@ -1580,6 +1580,1826 @@
 		],
 		"correct": 3
 	},
+	{	"question": "when two or more candidates are running from the same political party, what must a candidates for their political party?",
+		"answer": [
+			"The Primary",
+			"A vote of Confidence",
+			"The Referendum",
+			"The Main Election"
+		],
+		"correct":1
+	},
+	{
+		"Question": "Who is the only president to serve two non-consecutive terms?",
+		"answers": [
+			"Gover Cleveland",
+			"Franklin Delano Roosevelt",
+			"Ulysses S. Grant",
+			"Zachary Taylor"
+		],
+		"correct": 1
+	},	
+	{
+		"question": "How many articles are in the are in the Consitution?",
+		"answer": [
+			"Seven",
+			"Nine",
+			"One",
+			"Twelve"
+		],
+		"correct": 1
+	},
+	{
+		"question": "how many times has the Constitution been amended?",
+		"answer": [
+			"Thrity",
+			"Twenty-seven",
+			"Twenty",
+			"Seven"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What are the first ten amendments to the constitution called?",
+		"answer": [
+			"The Bill of Rights",
+			"Basic Rights",
+			"Rights",
+			"None of the above"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What's the main job of a Legislature?",
+		"answer": [
+			"to make the world better",
+			"to make a budget",
+			"to make the laws"
+		],
+		"correct": 3	
+	},
+	{
+		"question": " What is the preamble?",
+		"answer": [
+			"The introduction to the Constitution",
+			"Statute that states the reasons for and intent of the law",
+			"an introductory statement",
+			"all of bthe above"
+		],
+		"correct": 4
+	},
+	{
+		"question": "Whereas the principal work of a parliament is debate, that of a congress is?",
+		"answer": [
+			"representation and action.",
+			"oversight and assessment.",
+			"administration.",
+			"investigation and reorganization"
+		],
+		"correct": 4
+	},
+	{
+		"question": "Which amendment changed the manner in which U.S. Senators are selected?",
+		"answer": [
+			"Tenth",
+			" Fourteenth",
+			"Seventeenth",
+			"Twenty-first"
+		],
+		"correct": 3
+	}, 
+	{
+		"question": "The real leadership in the Senate rests with the?",
+		"answer": [
+			"majority leader",
+			"president pro tempore",
+			"managers",
+			" vice president"
+		],
+		"correct": 1
+	},
+	{
+		"question": "In the House, the most important position is the",
+		"answer": [
+			"majority leader",
+			"Speaker",
+			"Senate whip",
+			"vice president"
+		],
+		"correct": 2
+	},
+	{
+		"question": "In the 1860s, being a congressman was not regarded as a career because?",
+		"answer": [
+			"the federal government was not very important",
+			" travel to Washington, D.C., was difficult",
+			"Washington was not generally considered a pleasant place to live",
+			"all the above"
+		],
+		"correct": 4
+	},
+	{
+		"question": "The president who was known as the consummate delegator because he dispersed authority to his advisors",
+		"answer": [
+			"John F. Kennedy",
+			"Ronald Reagan",
+			"George Bush",
+			"Lyndon B. Johnson"
+		],
+		"correct": 2
+	},
+	{ 
+		"question": "Impeachment of a President means that the President is",
+		"answer": [
+			"convicted of a crime",
+			" tried by the Senate",
+			"removed from office",
+			"indicted by the House"
+		],
+		"correct": 4
+	},
+	{
+		"question": "According to the 25th Amendment, in the even of a vacancy in the Vice Presidency",
+		"answer": [
+			"the President nominates a replacement who must be confirmed by both houses of Congress",
+			"he electoral college elects a new Vice President",
+			"the Speaker of the House is automatically the new Vice President",
+			" the office remains vacant until a subsequent national election takes place"
+		],
+		"correct": 1
+	},
+	{
+		"question": "The president has constitutional authority to make treaties with other nations subject to the agreement of",
+		"answer": [
+			"a majority of the House",
+			" 2/3 of the Senate",
+			"a majority of both the House and the Senate",
+			"2/5 of the House"
+		],
+		"correct": 2
+	},
+	{
+		"question": "The surge in President George Bush's approval ratings during and immediately following the Gulf War in 1991 was an example of",
+		"answer": [
+			"the bully pulpit",
+			"presidential coattails",
+			" a rally event",
+			"a pocket veto"
+		],
+		"correct": 3
+		
+	},
+	{
+		"question": "The 22nd Amendment passed in 1951",
+		"answer": [
+			" provided for the Presidential and Vice Presidential candidates to run as a team",
+			"limited presidents to two terms in office",
+			"provided for the direct election of the President by the people",
+			"gave impeachment powers to Congress"
+		],
+		"correct": 2
+	},
+	{
+		"question": "The primary factor influencing whether or not a person approves or disapproves of a President's job performance is",
+		"answer": [
+			"political party identification",
+			"gender",
+			"geographic location",
+			"age"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What are the two rights of everyone living in the Unithed States?",
+		"answer": [
+			"Freedom to petition the government and freedom to disoboey traffic laws",
+			"Freedom of speech and freedom of worship",
+			"Freedom of speech and freedom to run for president"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Name one branch or part of the government.",
+		"answer": [
+			"State government",
+			"Parliament",
+			"United Nation",
+			"Legislative"
+		],
+		"correct": 4	
+	},
+	{
+		"question": "All of the following are basic principles underlying the constitution EXCEPT",
+		"answer": [
+			"Equality",
+			"Majority rule",
+			"Popular sovereignty",
+			"Federalism"
+		],
+		"correct": 1
+	},
+	{
+		"question": "if both the president and the vice president can no longer serve, who becomes president",
+		"answer": [
+			"Speaker of trhe house",
+			"Governor of the most populos state",
+			"President ofthe senate",
+			"Cheif of justice of the supreme court"
+		],
+		"correct": 1
+		
+	},
+	{
+		"question": "What stops one branch of government from becoming too powerful?",
+		"answer": [
+			"The president",
+			"checks and balances",
+			" the people",
+			"freedom of speech"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What amendment guarantees Freedom of Speech?",
+		"answers": [
+			"First",
+			"Second",
+			"Third",
+			"Fourth"
+		],
+		"correct": 0
+	},
+	{
+		"question": "What Branch of Government is charged with enforcing laws?",
+		"answers": [
+			"Legislative",
+			"Executive",
+			"Judicial",
+			"Administrative"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Who elects the President of the United States?",
+		"answers": [
+			"Congress",
+			"The People",
+			"The Electoral College",
+			"The House of Representatives"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What branch of Government makes laws?",
+		"answers": [
+			"Judicial",
+			"States",
+			"Executive",
+			"Legislative"
+		],
+		"correct": 3
+	},
+	{
+		"question": "The Constitution prescribes that the Senate be composed of how many senators from each State?",
+		"answers": [
+			"2",
+			"10",
+			"12",
+			"It depends on the state's population"
+		],
+		"correct": 0
+	},
+	{
+		"question": "How many members are in the House of Representatives?",
+		"answers": [
+			"435",
+			"1000",
+			"150",
+			"It changes every year"
+		],
+		"correct": 0
+	},
+	{
+		"question": "How many members represent Missouri in the House of Representatives?",
+		"answers": [
+			"6",
+			"8",
+			"10",
+			"12"
+		],
+		"correct": 1
+	},
+	{
+		"question": "If both the President and the Vice President can no longer serve, who becomes President?",
+		"answers": [
+			"Speaker of the House",
+			"Secretary of State",
+			"Attorney General",
+			"Tempore of the Senate"
+		],
+		"correct": 0
+	},
+	{
+		"question": "In what year were women given the right to vote?",
+		"answers": [
+			"1918",
+			"1920",
+			"1932",
+			"1940"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What movement tried to end racial discrimination?",
+		"answers": [
+			"Civil Rights Movement",
+			"Inclusive Human Rights Movement",
+			"Women's Suffrage Movement",
+			"The Labor Movement"
+		],
+		"correct": 0
+	},
+	{
+		"question": "In the case of a tied vote in the U.S. Senate, the deciding vote is cast by…",
+		"answers": [
+			"The President",
+			"The Vice President",
+			"The Speaker of the House",
+			"The House of Representatives"
+		],
+		"correct": 1
+	},
+	{
+		"question": "How is the number of terms a president can serve determined?",
+		"answers": [
+			"The 8th Amendment of the Constitution",
+			"The 12th Amendment of the Constitution",
+			"The 20th Amendment of the Constitution",
+			"The 22nd Amendment of the Constitution"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which of the following rights is guaranteed by the First Amendment to the Constitution?",
+		"answers": [
+			"The right to bear arms",
+			"The right to remain silent",
+			"The right of free speech",
+			"The right to protect from unreasonable searches and seizures by the government"
+		],
+		"correct": 2
+	},
+	{
+		"question": "How many justices are on the Supreme Court?",
+		"answers": [
+			"7",
+			"9",
+			"11",
+			"13"
+		],
+		"correct": 1
+	},
+	{
+		"question": "As of September 1, 2021, abortion is illegal in what state once a fetal heartbeat can be detected?",
+		"answers": [
+			"Texas",
+			"California",
+			"Missouri",
+			"Florida"
+		],
+		"correct": 0
+	},
+	{
+		"question": "How long is a U.S. Senator’s term?",
+		"answers": [
+			"2 years",
+			"4 years",
+			"6 years",
+			"8 years"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What position does the Vice President hold in the Legislative branch?",
+		"answers": [
+			"President of the Senate",
+			"Speaker of the House",
+			"Lord Chancellor",
+			"Majority Whip"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who is the only president to serve two non-consecutive terms?",
+		"answers": [
+			"George Washington",
+			"Abraham Lincoln",
+			"Grover Cleavland",
+			"Andrew Johnson"
+		],
+		"correct": 2
+	},
+	{
+		"question": "When two or more candidates are running from the same political party, what must a candidate win in order to be the sole candidate for their political party?",
+		"answers": [
+			"The Primary",
+			"The Main Election",
+			"A Vote of Confidence",
+			"The Referendum"
+		],
+		"correct": 0
+	},
+	{
+		"question": "After becoming a country, our first laws were called...",
+		"answers": [
+			"The Declaration",
+			"The Articles of Confederation",
+			"The Gettysburg Address",
+			"The Constitution"
+		],
+		"correct": 1
+	},
+	{
+		"question": "The Constitution was signed in what year?",
+		"answers": [
+			"1776",
+			"1789",
+			"1787",
+			"1791"
+		],
+		"correct": 2
+	},
+	{
+		"question": "The Legislative Branch...",
+		"answers": [
+			"Sees that the laws are carried out",
+			"Decides what the laws mean according to the Constitution",
+			"Makes the laws",
+			"All of these"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who was president from 1789 to 1797?",
+		"answers": [
+			"George Washington",
+			"John Adams",
+			"Andrew Jackson",
+			"James Buchanan"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who was president from 1797 to 1801?",
+		"answers": [
+			"James Monroe",
+			"John Adams",
+			"Woodrow Wilson",
+			"Richard Nixon"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What is the emancipation proclamation an example of?",
+		"answers": [
+			"A Bill",
+			"An act of Congress",
+			"An executive Order",
+			"A Supreme Court Opinion"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who was president from 1801 to 1809?",
+		"answers": [
+			"Franklin D. Roosevelt",
+			"Thomas Jefferson",
+			"Martin Van Buren",
+			"Harry S. Truman"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which U.S. President had the code name Eagle?",
+		"answers": [
+			"George Washington",
+			"John Adams",
+			"Bill Clinton",
+			"Ronald Reagan"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which U.S. President had the code name Searchlight?",
+		"answers": [
+			"George Washinton",
+			"Donald Trump",
+			"Joe Biden",
+			"Richard Nixon"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which U.S. President had the code name Deacon?",
+		"answers": [
+			"Jimmy Carter",
+			"Barack Obama",
+			"Joe Biden",
+			"James Buchanan"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which U.S. President had the code name Mogul?",
+		"answers": [
+			"John F. Kennedy",
+			"Donald Trump",
+			"Dwight D. Eisenhower",
+			"Grover Cleveland"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which U.S. President had the code name Celtic?",
+		"answers": [
+			"Warren G. Harding",
+			"Herbert Hoover",
+			"Joe Biden",
+			"Theodore Roosevelt"
+		],
+		"correct": 2
+	},
+	{
+		"question": "How many amendments to the U.S. Constitution are there?",
+		"answers": [
+			"15",
+			"27",
+			"26",
+			"22"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which was a reason that American colonists rebelled against British rule?",
+		"answers": [
+			"High taxes",
+			"Water rights",
+			"Gun rights",
+			"Low wages"
+		],
+		"correct": 0
+	},
+	{
+		"question": "What territory did the United States buy from France in 1803?",
+		"answers": [
+			"Lousiana",
+			"Texas",
+			"Florida",
+			"Alaska"
+		],
+		"correct": 0
+	},
+	{
+		"question": "In what year was Abraham Lincoln assassinated?",
+		"answers": [
+			"1875",
+			"1867",
+			"1865",
+			"1859"
+		],
+		"correct": 2
+	},
+	{
+		"question": "In what year did the Civil War end?",
+		"answers": [
+			"1875",
+			"1867",
+			"1865",
+			"1859"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What is the emancipation proclamation an example of?",
+		"answers": [
+			"A Bill",
+			"An act of Congress",
+			"An executive Order",
+			"A Supreme Court Opinion"
+		],
+		"correct": 2
+	},
+	{
+		"question": "How many amendments are there in the Constitution?",
+		"answers": [
+			"14",
+			"6",
+			"21",
+			"27"
+		],
+		"correct": 3
+	},
+	{
+		"question": "What are the first ten amendments called?",
+		"answers": [
+			"Bill of Rights",
+			"An act of Congress",
+			"Congress",
+			"There is no special name"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who is in charge of the Executive branch?",
+		"answers": [
+			"Supreme Court",
+			"The House of Representatives",
+			"The Vice President",
+			"The President"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Who will serve the United States of America if the President can't",
+		"answers": [
+			"Supreme Court",
+			"The Vice President",
+			"President of the Senate",
+			"The Speaker of the House"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Who represent the United States of America if the President and Vice Present can not?",
+		"answers": [
+			"No one will",
+			"Supreme Court",
+			"President of the Senate",
+			"The Speaker of the House"
+		],
+		"correct": 3
+	},
+	{
+		"question": "How many major political parties are there in America?",
+		"answers": [
+			"1",
+			"2",
+			"4",
+			"8"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Who is part of the executive branch?",
+		"answers": [
+			"The president",
+			"State representatives",
+			"Mayors",
+			"Supreme Court Justices"
+		],
+		"correct": 0
+	},
+	{
+		"question": "What is it called if a president decides not to approve a bill?",
+		"answers": [
+			"Stalling",
+			"Veto",
+			"Minimus",
+			"Garrot"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What is the job of the president's cabinet?",
+		"answers": [
+			"To advise the president",
+			"To make laws",
+			"To protect the president",
+			"To run the military"
+		],
+		"correct": 0
+	},
+	{
+		"question": "The Electoral College elects the...",
+		"answers": [
+			"Mayor of New York City",
+			"Members of Congress",
+			"President",
+			"Secretary of State"
+		],
+		"correct": 2
+	},
+	{
+		"question": "How many main branches are there in the U.S. government?",
+		"answers": [
+			"1",
+			"3",
+			"7",
+			"20"
+		],
+		"correct": 1
+	},
+	{
+		"question": "How old do you have to be to vote in the U.S.?",
+		"answers": [
+			"16",
+			"18",
+			"21",
+			"25"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Who is part of the legislative branch?",
+		"answers": [
+			"The Vice President",
+			"Congress",
+			"Supreme Court",
+			"The police"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Who is part of the judicial branch?",
+		"answers": [
+			"House of Representatives",
+			"Secretary of Defense",
+			"The President",
+			"The Supreme Court"
+		],
+		"correct": 3
+	},
+	{
+		"question": "What do laws start as?",
+		"answers": [
+			"Bills",
+			"Tweets",
+			"Amendments",
+			"Constitutions"
+		],
+		"correct": 0
+	},
+	{
+		"question": "What branch of government is the most powerful?",
+		"answers": [
+			"Executive",
+			"Judicial",
+			"Legislative",
+			"They are all equally powerful"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What can be the final step of a law being created?",
+		"answers": [
+			"House approval",
+			"Senate approval",
+			"National vote",
+			"The President's signature"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which of these rights does The Fifth Amendment protect?",
+		"answers": [
+			"The right to choose not to testify in court",
+			"Those not listed in the Constitution",
+			"Freedom of Press",
+			"Right to legal representation"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Powers are balanced between the branches of government to prevent:",
+		"answers": [
+			"Dictatorship",
+			"Progress",
+			"Governmental collapse",
+			"Multiple political parties forming"
+		],
+		"correct": 0
+	},
+	{
+		"question": "The US Constitution is the ________ constitution still used in the world today.",
+		"answers": [
+			"Longest",
+			"Oldest",
+			"Most complicated",
+			"Newest"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Have there been more Democratic or Republican presidents?",
+		"answers": [
+			"Democratic",
+			"Republican"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Who can come up with the ideas which might eventually become laws?",
+		"answers": [
+			"Congressman",
+			"The President",
+			"Special interest groups",
+			"Any American citizen"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Each state has its own...",
+		"answers": [
+			"President",
+			"Army",
+			"Constitution",
+			"Secretary of State"
+		],
+		"correct": 2
+	},
+	{
+		"question": "The Constitution is organized into __________ articles.",
+		"answers": [
+			"2",
+			"7",
+			"30",
+			"75"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What percentage of the bills introduced to Congress become law?",
+		"answers": [
+			"1",
+			"5",
+			"25",
+			"75"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Do you have to be born in the U.S. to be a Senator or U.S. Representative?",
+		"answers": [
+			"Yes",
+			"No"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which party in America is more right-leaning politically?",
+		"answers": [
+			"Democrats",
+			"Republicans"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which party in America is more left-leaning politically?",
+		"answers": [
+			"Democrats",
+			"Republicans"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which political party is often referred to as the GOP?",
+		"answers": [
+			"Democrats",
+			"Republicans"
+		],
+		"correct": 1
+	},
+	{
+		"question": "When the same political party controls the White House and both chambers of Congress is called...",
+		"answers": [
+			"Unified government",
+			"Divided government",
+			"Party unification",
+			"Gridlock"
+		],
+		"correct": 0
+	},
+	{
+		"question": "When one political party controls the White House and another political party controls one or both chambers of Congress is called...",
+		"answers": [
+			"Unified government",
+			"Divided government",
+			"Party unification",
+			"Gridlock"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What is it called when the government is unable to act because rival parties control different parts of the government?",
+		"answers": [
+			"Gridlock",
+			"Divided government",
+			"Bully pulpit"
+		],
+		"correct": 0
+	},
+	{
+		"question": "What is it called when a bill fails to become law because the president did not sign it within 10 days before Congress adjourns?",
+		"answers": [
+			"Veto message",
+			"Pocket veto",
+			"Line-item veto"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What is it called when a message from the president to Congress stating that that a bill passed in both chambers will not be signed? Must be produced within 10 days of the bill’s passage.",
+		"answers": [
+			"Line-item veto",
+			"Veto message",
+			"Pocket veto"
+		],
+		"correct": 1
+	},
+	{
+		"question": "An executive’s ability to block a particular provision in a bill passed by the legislature is called...",
+		"answers": [
+			"Veto message",
+			"Pocket veto",
+			"Line-item veto"
+		],
+		"correct": 2
+	},
+	{
+		"question": "A president is entitled to receive confidential advice but can be required to reveal material related to a criminal prosecution is the result of which landmark case?",
+		"answers": [
+			"United States v. Nixon (1974)",
+			"Nixon v. Fitzgerald (1982)",
+			"Clinton v. Jones (1997)",
+			"Trump v. Vance (2020)"
+		],
+		"correct": 0
+	},
+	{
+		"question": "The president may not be sued while in office is the result of which landmark case?",
+		"answers": [
+			"United States v. Nixon (1974)",
+			"Nixon v. Fitzgerald (1982)",
+			"Clinton v. Jones (1997)",
+			"Trump v. Vance (2020)"
+		],
+		"correct": 1
+	},
+	{
+		"question": "The president may be sued for actions taken before becoming president is the result of which landmark case?",
+		"answers": [
+			"United States v. Nixon (1974)",
+			"Nixon v. Fitzgerald (1982)",
+			"Clinton v. Jones (1997)",
+			"Trump v. Vance (2020)"
+		],
+		"correct": 2
+	},
+	{
+		"question": "The president does not have absolute immunity to block release of personal financial records in response to a subpoena is the result of which landmark case?",
+		"answers": [
+			"United States v. Nixon (1974)",
+			"Nixon v. Fitzgerald (1982)",
+			"Clinton v. Jones (1997)",
+			"Trump v. Vance (2020)"
+		],
+		"correct": 3
+	},
+	{
+		"question": "When a president’s subordinates report to him through a clear chain of command headed by a chief of staff is called...",
+		"answers": [
+			"Pyramid structure",
+			"Circular structure",
+			"Ad hoc structure"
+		],
+		"correct": 0
+	},
+	{
+		"question": "What is it called when several of the president’s assistants report directly to him?",
+		"answers": [
+			"Pyramid structure",
+			"Circular structure",
+			"Ad hoc structure"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What is it called when several subordinates, cabinet officers, and committees report directly to the president on different matters?",
+		"answers": [
+			"Pyramid structure",
+			"Circular structure",
+			"Ad hoc structure"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which U.S. President has been impeached?",
+		"answers": [
+			"Andrew Johnson",
+			"Bill Clinton",
+			"Donald Trump",
+			"All of them"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Who is the only U.S. President to have been impeached twice?",
+		"answers": [
+			"Andrew Johnson",
+			"Bill Clinton",
+			"Donald Trump",
+			"No one has been impeached twice"
+		],
+		"correct": 2
+	},
+	{
+		"question": "The legislative leader elected by party members holding the majority of seats in the House or the Senate is called the...",
+		"answers": [
+			"Majority leader",
+			"Minority leader",
+			"Whip",
+			"Speaker"
+		],
+		"correct": 0
+	},
+	{
+		"question": "A senator or representative who helps the party leader stay informed about what party members are thinking is called the...",
+		"answers": [
+			"Congressional leader",
+			"Speaker",
+			"Whip",
+			"Majority leader"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Permanently established legislative committees that consider and are responsible for legislation within a certain subject area are called...",
+		"answers": [
+			"Joint committees",
+			"Select committees",
+			"Conference committee",
+			"Standing committees"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Congressional committees appointed for a limited time and purpose are called...",
+		"answers": [
+			"Joint committees",
+			"Select committees",
+			"Conference committee",
+			"Standing committees"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Committees on which both senators and representatives serve are called...",
+		"answers": [
+			"Joint committees",
+			"Select committees",
+			"Conference committee",
+			"Standing committees"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Joint committees appointed to resolve differences in the Senate and House versions of the same bill are called...",
+		"answers": [
+			"Joint committees",
+			"Select committees",
+			"Conference committee",
+			"Standing committees"
+		],
+		"correct": 2
+	},
+	{
+		"question": "An expression of opinion either in the House or Senate to settle procedural matters in either body is called...",
+		"answers": [
+			"Simple resolution",
+			"Joint resolution",
+			"Concurrent resolution"
+		],
+		"correct": 0
+	},
+	{
+		"question": "A formal expression of congressional opinion that must be approved by both houses of Congress and by the president is called what? Constitutional amendments need not be signed by the president.",
+		"answers": [
+			"Simple resolution",
+			"Joint resolution",
+			"Concurrent resolution"
+		],
+		"correct": 1
+	},
+	{
+		"question": "An order from the House Rules Committee that permits certain kinds of amendments but not others to be made to a bill on the floor is called what?",
+		"answers": [
+			"Closed rule",
+			"Cloture rule",
+			"Restrictive rule",
+			"Open rule"
+		],
+		"correct": 2
+	},
+	{
+		"question": "An order from the House Rules Committee that sets a time limit on debate; forbids a bill from being amended on the floor is called what?",
+		"answers": [
+			"Closed rule",
+			"Cloture rule",
+			"Restrictive rule",
+			"Open rule"
+		],
+		"correct": 0
+	},
+	{
+		"question": "An order from the House Rules Committee that permits a bill to be amended on the floor is called what?",
+		"answers": [
+			"Closed rule",
+			"Cloture rule",
+			"Restrictive rule",
+			"Open rule"
+		],
+		"correct": 3
+	},
+	{
+		"question": "A rule used by the Senate to end or limit debate is called what?",
+		"answers": [
+			"Closed rule",
+			"Cloture rule",
+			"Restrictive rule",
+			"Open rule"
+		],
+		"correct": 1
+	},
+	{
+		"question": "A congressional voting procedure in which members shout “yea” in approval or “nay” in disapproval, permitting members to vote quickly or anonymously on bills is called what?",
+		"answers": [
+			"Division Vote",
+			"Voice Vote",
+			"Teller Vote",
+			"Roll-Call Vote"
+		],
+		"correct": 1
+	},
+	{
+		"question": "A congressional voting procedure in which members stand and are counted is called what?",
+		"answers": [
+			"Division Vote",
+			"Voice Vote",
+			"Teller Vote",
+			"Roll-Call Vote"
+		],
+		"correct": 0
+	},
+	{
+		"question": "A congressional voting procedure that consists of members answering “yea” or “nay” to their names is called what?",
+		"answers": [
+			"Division Vote",
+			"Voice Vote",
+			"Teller Vote",
+			"Roll-Call Vote"
+		],
+		"correct": 3
+	},
+	{
+		"question": "A congressional voting procedure in which members pass between two tellers, the “yeas” first and the “nays” second is called what?",
+		"answers": [
+			"Division Vote",
+			"Voice Vote",
+			"Teller Vote",
+			"Roll-Call Vote"
+		],
+		"correct": 2
+	},
+	{
+		"question": "The three-fifths compromise dealt with representation and with taxation.",
+		"answers": [
+			"True",
+			"False"
+		],
+		"correct": 0
+	},
+	{
+		"question": "The only cases that the Supreme Court must hear are cases involving civil liberties or civil rights.",
+		"answers": [
+			"True",
+			"False"
+		],
+		"correct": 1
+	},
+	{
+		"question": "The Supreme Court has the power to declare a Constitutional Amendment Unconstitutional.",
+		"answers": [
+			"True",
+			"False"
+		],
+		"correct": 1
+	},
+	{
+		"question": "A bill may become a law, with or without a presidential signature.",
+		"answers": [
+			"True",
+			"False"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Only the Senate has the responsibility of confirming or not confirming a presidential Nomination.",
+		"answers": [
+			"True",
+			"False"
+		],
+		"correct": 0
+	},
+	{
+		"question": "If a president is impeached and removed from office, the president is also free of any civil and criminal charges.",
+		"answers": [
+			"True",
+			"False"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Only members of the House of Representatives can be a presidential elector.",
+		"answers": [
+			"True",
+			"False"
+		],
+		"correct": 1
+	},
+	{
+		"question": "When Congress is in session, members of the Congress are free from arrest.",
+		"answers": [
+			"True",
+			"False"
+		],
+		"correct": 0
+	},
+	{
+		"question": "The youngest a member of Congress can be is 25.",
+		"answers": [
+			"True",
+			"False"
+		],
+		"correct": 0
+	},
+	{
+		"question": "If a state gains a representative, the national government re-districts the state to accommodate the change.",
+		"answers": [
+			"True",
+			"False"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Who drafted the U.S. Declaration of Independence?",
+		"answers": [
+			"Abraham Lincoln",
+			"King George III",
+			"Thomas Jefferson",
+			"George Washington"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who wrote the American national anthem?",
+		"answers": [
+			"Francis Drake",
+			"Francis Bellamy",
+			"F. Scott Fitzgerald",
+			"Francis Scott Key"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What is the nickname for the old regulations requiring racial segregation?",
+		"answers": [
+			"Stone the Crows laws",
+			"Blue laws",
+			"Jim Crow laws",
+			"Old Crow laws"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Where did the U.S. Senate first meet, before moving to Philadelphia and then to Washington, D.C.?",
+		"answers": [
+			"Boston",
+			"Trenton",
+			"New York City",
+			"Richmond"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which document does the Fourth of July commemorate?",
+		"answers": [
+			"Gettysburg Address",
+			"Constitution",
+			"Declaration of Independence",
+			"Articles of Confederation"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What is the first self-evident truth in the Declaration of Independence?",
+		"answers": [
+			"That honesty is the best policy",
+			"That standing armies should not exist",
+			"That all men are created equal",
+			"That everyone should have the right to vote"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What kind of government does the United States have?",
+		"answers": [
+			"Democracy",
+			"Republic",
+			"Monarchy",
+			"Gerontocracy"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What year was the organization known as the Daughters of the American Revolution founded?",
+		"answers": [
+			"1843",
+			"1792",
+			"1804",
+			"1890"
+		],
+		"correct": 3
+	},
+	{
+		"question": "What war was fought in 1832 between the United States and Native Americans over territory in Illinois?",
+		"answers": [
+			"Black Hawk War",
+			"Cayuse War",
+			"Ute Wars",
+			"Arikara War"
+		],
+		"correct": 0
+	},
+	{
+		"question": "The Open Door policy was initiated by the United States for the protection of equal privileges among countries trading with which nation?",
+		"answers": [
+			"China",
+			"India",
+			"Canada",
+			"Italy"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which site was the site of the international meeting in 1945 that established the United Nations?",
+		"answers": [
+			"San Francisco",
+			"Chicago",
+			"Philadelphia",
+			"Seattle"
+		],
+		"correct": 0
+	},
+	{
+		"question": "What was Japan's first treaty with the United States?",
+		"answers": [
+			"Treaty of Kanagawa",
+			"Security Treaty",
+			"Treaty of Peace with Japan",
+			"Treaty of Mutual Cooperation and Security"
+		],
+		"correct": 0
+	},
+	{
+		"question": "When did Baton Rouge become the capital of Louisiana?",
+		"answers": [
+			"1849",
+			"1917",
+			"1817",
+			"1902"
+		],
+		"correct": 0
+	},
+	{
+		"question": "The Anti-Ballistic Missile Treaty between the United States and the Soviet Union was signed by which U.S. president?",
+		"answers": [
+			"John F. Kennedy",
+			"Richard Nixon",
+			"Lyndon B. Johnson",
+			"Jimmy Carter"
+		],
+		"correct": 1
+	},
+	{
+		"question": "In the United States, PACs raise and distribute campaign funds to candidates seeking political office. What is the acronym PAC short for?",
+		"answers": [
+			"Political Action Committee",
+			"Public Action Commission",
+			"Political Accomplishment Campaign",
+			"Positive Action Commission"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which of these Supreme Court cases established a student's right to free speech in school settings?",
+		"answers": [
+			"School Board of Nassau County v. Arline",
+			"Abood v. Detroit Board of Education",
+			"Tinker v. Des Moines Independent Community School District",
+			"Davis v. Monroe County Board of Education"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which amendment to the U.S. Constitution imposed the federal prohibition of alcohol?",
+		"answers": [
+			"16th Amendment",
+			"18th Amendment",
+			"21st Amendment",
+			"15th Amendment"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Who deliverd the Gettysburg Address?",
+		"answers": [
+			"George Washington",
+			"Martin Luther King, Jr.",
+			"Abraham Lincoln",
+			"Woodrow Wilson"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who among these is NOT traditionally considered to be a Founding Father?",
+		"answers": [
+			"Samuel Adams",
+			"Patrick Henry",
+			"John Trumbull",
+			"George Manson"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which U.S. president began the War on Drugs?",
+		"answers": [
+			"Richard Nixon",
+			"Grover Cleveland",
+			"Lyndon B. Johnson",
+			"Ronald Reagan"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which U.S. president enacted the program known as the New Deal?",
+		"answers": [
+			"Herbert Hoover",
+			"Woodrow Wilson",
+			"Franklin D. Roosevelt",
+			"Theodore Roosevelt"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which U.S. presidnet issued the executive order that established the Peace Corps?",
+		"answers": [
+			"Calvin Coolidge",
+			"Warren G. Harding",
+			"John F. Kennedy",
+			"Dwight D. Eisenhower"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which 1967 Supreme Court case struck down state laws that prohibited marriage by persons of different race?",
+		"answers": [
+			"Munn v. Illinois",
+			"Lawrence v. Texas",
+			"Loving v. Virginia",
+			"Mapp v. Ohio"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which amendment to the U.S. Constitution formally abolished slavery?",
+		"answers": [
+			"21st Amendment",
+			"16th Amendment",
+			"9th Amendment",
+			"13th Amendment"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which U.S. president led his country through the final stages of World War II and through the early years of the Cold War?",
+		"answers": [
+			"Dwight D. Eisenhower",
+			"John F. Kennedy",
+			"Franklin D. Roosevelt",
+			"Harry S. Truman"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which U.S. president became the country's only chief executive who had not been elected either president or vice president?",
+		"answers": [
+			"Millard Fillmore",
+			"Gerald Ford",
+			"Andrew Johnson",
+			"Benjamin Harrison"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which first lady had a leading role in drafting the UN's Universal Declaration of Human Rights (1948)?",
+		"answers": [
+			"Elenore Roosevelt",
+			"Helen Taft",
+			"Edith Wilson",
+			"Lucretia Garfield"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which of the following means having the right to vote?",
+		"answers": [
+			"Suffrage",
+			"Election",
+			"Ballot",
+			"Equality"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which of the following groups was the last to gain suffrage in the United States of America?",
+		"answers": [
+			"African Americans",
+			"Women",
+			"18-to-20-year-olds",
+			"Native Americans"
+		],
+		"correct": 2
+	},
+	{
+		"question": "In the United States, which type of election typically has the highest voter turnout?",
+		"answers": [
+			"Local",
+			"State",
+			"Congressional",
+			"Presidential"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which governmental bodies are responsible for both conducting and regulating federal elections?",
+		"answers": [
+			"State governments",
+			"Federal governments",
+			"Federal Election Commission",
+			"Local mayors"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which term describes funds raised and spent by a politcal party to promote voter registration and participation?",
+		"answers": [
+			"Hard money",
+			"Undisclosed contributions",
+			"Soft money",
+			"Protected funds"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What type of ballot asks voters to approve or reject a state or local law?",
+		"answers": [
+			"Recall election",
+			"Referendum",
+			"Special election",
+			"All of the above"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What situation would necessitate a special election?",
+		"answers": [
+			"An official dies in office",
+			"An official is recalled",
+			"An official resigns",
+			"All of the above"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which of the following is not a difference between a Senator and a Representative?",
+		"answers": [
+			"All states send the same number of both to congress",
+			"Both have the same age requirement",
+			"Both are Responsable to the people who elect them",
+			"Both serve the same number or years"
+		],
+		"correct": "2"
+	},
+	{
+		"question": "Who ran for President of the United States with the campaign slogan a chicken in every pot and a car in every garage?",
+		"answers": [
+			"William McKinley",
+			"Woodrow Wilson",
+			"Herbert Hoover",
+			"Calvin Coolidge"
+		],
+		"correct": 2
+	},
+	{
+		"question": "What U.S. President refused to use the telephone while in office?",
+		"answers": [
+			"Herbert Hoover",
+			"Richard Nixon",
+			"Calvin Coolidge",
+			"Warren G. Harding"
+		],
+		"correct": 2
+	},
+	{
+		"question": "John F. Kennedy was the 35th President of the U.S. What does the F stand for?",
+		"answers": [
+			"Frank",
+			"Frederick",
+			"Finlay",
+			"Fitzgerlad"
+		],
+		"correct": 1
+	},
+	{
+		"question": "President Joe Biden was previously Vice President. Who was President at the time?",
+		"answers": [
+			"Barack Obama",
+			"Richard Nixon",
+			"Bill Clinton",
+			"He has never been Vice President"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who preceded George W. Bush in 2009 to become the 44th President?",
+		"answers": [
+			"Joe Biden",
+			"George H.W. Bush",
+			"Barack Obama",
+			"Bill Clinton"
+		],
+		"correct": 1
+	},
+	{
+		"question": "What is the name of the first woman Vice-President?",
+		"answers": [
+			"Elizabeth Warren",
+			"Kamala Harris",
+			"Hillary Clinton",
+			"Dianne Feinstein"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which of the first 12 presidents was the first to not own slaves?",
+		"answers": [
+			"George Washington",
+			"John Adams",
+			"Thomas Jefferson",
+			"James Madison"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Which president was the last to own slaves?",
+		"answers": [
+			"Ulysses S. Grant",
+			"Rutherford B. Hayes",
+			"James A. Garfield",
+			"Chester Alan Arthur"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who is the oldest living president?",
+		"answers": [
+			"Joe Biden",
+			"Jimmy Carter",
+			"Bill Clinton",
+			"George W. Bush"
+		],
+		"correct": 1
+	},
+	{
+		"question": "Who was the first president to die in office?",
+		"answers": [
+			"Zachary Taylor",
+			"Abraham Lincoln",
+			"William Henry Harrison",
+			"James A. Garfield"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which president warned agaisnt political parties, long-term foriegn alliances and strict geographical divides in his farewell address?",
+		"answers": [
+			"George Washington",
+			"John Adams",
+			"Thomas Jefferson",
+			"James Madison"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Which president survived an assassination attempt 69 days into his term?",
+		"answers": [
+			"Abraham Lincoln",
+			"John F. Kennedy",
+			"Ronald Reagan",
+			"George W. Bush"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Which president was described as so honest that if you turned his soul inside out there would not be a spot on it?",
+		"answers": [
+			"James Monroe",
+			"Abraham Lincoln",
+			"George Washington",
+			"Zachary Taylor"
+		],
+		"correct": 0
+	},
+	{
+		"question": "Who was the first Roman Catholic president?",
+		"answers": [
+			"James A. Garfield",
+			"Rutherford B. Hayes",
+			"Martin Van Buren",
+			"John F. Kennedy"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which president was elected to his second term after suffering a heart attack?",
+		"answers": [
+			"Franklin D. Roosevelt",
+			"Lyndon B. Johnson",
+			"Ronald Reagan",
+			"Dwight D. Eisenhower"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Which president is the first to have a rescue dog while in office?",
+		"answers": [
+			"Ronald Reagan",
+			"George H.W. Bush",
+			"Joe Biden",
+			"Barack Obama"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who was the first president to be born in the United States?",
+		"answers": [
+			"William Henry Harrison",
+			"Marin Van Buren",
+			"Andrew Jackson",
+			"John Quincy Adams"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who was the youngest person to become president?",
+		"answers": [
+			"John F. Kennedy",
+			"Bill Clinton",
+			"Ulysses S. Grant",
+			"Theodore Roosevelt"
+		],
+		"correct": 3
+	},
+	{
+		"question": "Who is the youngest living president?",
+		"answers": [
+			"Joe Biden",
+			"Donald Trump",
+			"Barack Obama",
+			"George W. Bush"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Who is the oldest person to become president?",
+		"answers": [
+			"William H. Harrison",
+			"Ronald Reagan",
+			"Donald Trump",
+			"Joe Biden"
+		],
+		"correct": 3
+	},
 {
   "question": "when two or more candidates are running from the same political party, what must a candidates for their political party?",
 		"answer": [
