@@ -1579,5 +1579,263 @@
 			"Joe Biden"
 		],
 		"correct": 3
-	}
-]
+	},
+	{	"question": "when two or more candidates are running from the same political party, what must a candidates for their political party?"
+		"answer": [
+			"The Primary"
+			"A vote of Confidence"
+			"The Referendum"
+			"The Main Election"
+		"correct":1
+	},
+	{
+		"Question": "Who is the only president to serve two non-consecutive terms?"
+		"answers": [
+			"Gover Cleveland"
+			"Franklin Delano Roosevelt"
+			"Ulysses S. Grant"
+			"Zachary Taylor"
+		"correct": 1
+		
+	},	
+	{
+		"question": "How many articles are in the are in the Consitution?"
+		"answer": [
+			"Seven"
+			"Nine"
+			"One"
+			"Twelve"
+		"correct": 1
+		
+	},
+	{
+		"question": "how many times has the Constitution been amended?"
+		"answer": [
+			"Thrity"
+			"Twenty-seven"
+			"Twenty"
+			"Seven"
+		"correct": 2
+		
+	},
+	{
+		"question": "What are the first ten amendments to the constitution called?"
+		"answer": [
+			"The Bill of Rights"
+			"Basic Rights"
+			"Rights"
+			"None of the above"
+		"correct": 1
+		
+	},
+	{
+		"question": "What's the main job of a Legislature?"
+		"answer": [
+			"to make the world better"
+			"to make a budget"
+			"to make the laws"
+		"correct": 3
+		
+	},
+	{
+		"question": " What is the preamble?"
+		"answer": [
+			"The introduction to the Constitution"
+			"Statute that states the reasons for and intent of the law"
+			"an introductory statement"
+			"all of bthe above"
+		"correct": 4
+		
+	},
+	{
+		"question": "Whereas the principal work of a parliament is debate, that of a congress is?
+		"answer": [
+			"representation and action."
+			"oversight and assessment."
+			"administration."
+			"investigation and reorganization"
+		"correct": 4
+		
+	},
+	{
+		"question": "Which amendment changed the manner in which U.S. Senators are selected?"
+		"answer": [
+			"Tenth"
+			" Fourteenth"
+			"Seventeenth"
+			"Twenty-first"
+		"correct": 3
+		
+	}, 
+	{
+		"question": "The real leadership in the Senate rests with the?"
+		"answer": [
+			"majority leader"
+			"president pro tempore"
+			"managers"
+			" vice president"
+		"correct": 1
+		
+	},
+	{
+		"question": "In the House, the most important position is the"
+		"answer": [
+			"majority leader"
+			"Speaker"
+			"Senate whip"
+			"vice president"
+		"correct": 2
+		
+	},
+	{
+		"question": "In the 1860s, being a congressman was not regarded as a career because?"
+		"answer": [
+			"the federal government was not very important"
+			" travel to Washington, D.C., was difficult"
+			"Washington was not generally considered a pleasant place to live"
+			"all the above"
+		"correct": 4
+		
+		
+	},
+	{
+		"question": "The president who was known as the consummate delegator because he dispersed authority to his advisors"
+		"answer": [
+			"John F. Kennedy"
+			"Ronald Reagan"
+			"George Bush"
+			"Lyndon B. Johnson"
+		"correct": 2
+		
+	},
+	{ 
+		"question": "Impeachment of a President means that the President is"
+		"answer": [
+			"convicted of a crime"
+			" tried by the Senate"
+			"removed from office"
+			"indicted by the House"
+		"correct": 4
+		
+	},
+	{
+		"question": "According to the 25th Amendment, in the even of a vacancy in the Vice Presidency"
+		"answer": [
+			"the President nominates a replacement who must be confirmed by both houses of Congress"
+			"he electoral college elects a new Vice President"
+			"the Speaker of the House is automatically the new Vice President"
+			" the office remains vacant until a subsequent national election takes place"
+		"correct": 1
+		
+	},
+	{
+		"question": "The president has constitutional authority to make treaties with other nations subject to the agreement of"
+		"answer": [ 
+			"a majority of the House"
+			" 2/3 of the Senate"
+			"a majority of both the House and the Senate"
+			"2/5 of the House"
+		"correct": 2
+		
+	},
+	{
+		"question": "The surge in President George Bush's approval ratings during and immediately following the Gulf War in 1991 was an example of"
+		"answer": [
+			"the bully pulpit"
+			"presidential coattails"
+			" a rally event"
+			"a pocket veto"
+		"correct": 3
+		
+	},
+	{
+		"question": "The 22nd Amendment passed in 1951"
+		"answer": [
+			" provided for the Presidential and Vice Presidential candidates to run as a team"
+			"limited presidents to two terms in office"
+			"provided for the direct election of the President by the people"
+			"gave impeachment powers to Congress"
+		"correct": 2
+		
+	},
+	{
+		"question": "The primary factor influencing whether or not a person approves or disapproves of a President's job performance is"
+		"answer": [
+			"political party identification"
+			"gender"
+			"geographic location"
+			"age"
+		"correct": 1
+		
+		
+	},
+	{
+		"question": "What are the two rights of everyone living in the Unithed States?" 
+		"answer": [
+			"Freedom to petition the government and freedom to disoboey traffic laws"
+			"Freedom of speech and freedom of worship"
+			"Freedom of speech and freedom to run for president"
+		"correct": 2
+		
+	},
+	{
+		"question": "Who is in charge of the executive branch?
+		"answer": [
+			"The speaker of the house"
+			"The prime mister"
+			"The chief of Justice"
+			"The president"
+		"correct": 4
+		
+	},
+	{
+		"question": "Name one branch or part of the government."
+		"answer": [
+			"State government"
+			"Parliament"
+			"United Nation"
+			"Legislative"
+		"correct": 4
+		
+	},
+	{
+		"question": "All of the following are basic principles underlying the constitution EXCEPT"
+		"answer": [
+			"Equality"
+			"Majority rule"
+			"Popular sovereignty"
+			"Federalism"
+		"correct": 1
+		
+	},
+	{
+		"question": "if both the president and the vice president can no longer serve, who becomes president"
+		"answer": [
+			"Speaker of trhe house"
+			"Governor of the most populos state"
+			"President ofthe senate"
+			"Cheif of justice of the supreme court"
+		"answer" 1
+		
+	},
+	{
+		"question": "we elect a U.S senator for how many years?"
+		"answer": [
+			"Ten"
+			"Four"
+			"Six"
+			"Four"
+		"answer": 3
+		
+		
+	},
+	{
+		"question": "What stops one branch of government from becoming too powerful?"
+		"answer": [
+			"The president"
+			"checks and balances"
+			" the people" 
+			"freedom of speech"
+		"correct": 2
+
+
