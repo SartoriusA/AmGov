@@ -1580,7 +1580,8 @@
 		],
 		"correct": 3
 	},
-	{	"question": "when two or more candidates are running from the same political party, what must a candidates for their political party?",
+{
+  "question": "when two or more candidates are running from the same political party, what must a candidates for their political party?",
 		"answer": [
 			"The Primary",
 			"A vote of Confidence",
@@ -1807,7 +1808,6 @@
 			"Cheif of justice of the supreme court"
 		],
 		"correct": 1
-		
 	},
 	{
 		"question": "What stops one branch of government from becoming too powerful?",
@@ -1819,5 +1819,68 @@
 		],
 		"correct": 2
 	},
-
-
+	{
+		"question":"What does the Judicial Branch do?",
+		"answers":[
+			"Make Laws",
+			"Review and Explain Laws",
+			"Declare War",
+			"Create Taxes"
+		],
+		"correct":1
+	},
+	{
+		"question":"Which of the following office was directly elected in the US constitutuion that was ratifed in 1789?",
+		"answers":[
+			"President",
+			"US Senate",
+			"Federal Judges",
+			"House of Representatives"
+		],
+		"correct":3
+	},
+	{
+		"question":"The Supreme court is the highest Judical court",
+		"answers":[
+			"True",
+			"False"
+		],
+		"correct":0
+	},
+	{
+		"question":"What did the Declaration of Independence do?",
+		"answers":[
+			"Announced our independence",
+			"Declared our Independence",
+			"Announce the Creation of the New Country",
+			"All of the above"
+		],
+		"correct":3
+	},
+	{
+		"question":"Life, Liberty, and the Pursuit of Happiness are the rights in the Declaration of Independence.",
+		"answers":[
+			"True",
+			"False"
+		],
+		"correct":0
+	},
+	{
+		"question":"The President can stop one branch of government from becoming too powerful",
+		"answers":[
+			"True",
+			"False"
+		],
+		"correct":1
+	},
+	{
+		"question":"What stops one branch of government from becoming too powerful?",
+		"answers":[
+			"President",
+			"House of Representatives",
+			"Checks and Balances",
+			"Congress"
+		],
+		"correct":2
+	}
+]
