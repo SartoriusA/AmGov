@@ -150,7 +150,7 @@
 		"correct": 0
 	},
 	{
-		"question": "How long is a U.S. Senator’s term?",
+		"question": "How long is a U.S. Senator's term?",
 		"answers": [
 			"2 years",
 			"4 years",
@@ -1610,14 +1610,14 @@
 	},
 	{
 		"question": "Which of the following is NOT a requirement to be elected President?",
-		"answers:: [
+		"answers": [
 			 "must have the support of a political party",
 			 "must be at least 35 years of age",
 			 "must be a naturally born citizen",
 			 "must have been a resident in the U.S. for at least 14 years"
 		],
 		"correct": 1
-	}'
+	},
 	{
 		"question: 'What position does the Vice President hold in the Legislative branch?",
 		"answers": [
@@ -1627,7 +1627,7 @@
 			"Majority Whip"
 		], 
 		"correct": 2
-	}'
+	},
 	{
 		"question": "Which of the following is a power NOT given to Congress by the constitution?",
 		"answers": [
@@ -1637,9 +1637,9 @@
 			"to make any law necessary to carry out its responsibilites"
 		],
 		"correct": 2
-	}'
+	},
 	{
-		"question": "Who is the president to have never been elected as Vice President or as President?',
+		"question": "Who is the president to have never been elected as Vice President or as President?",
 		"answers": [
 			"Calvin Coolidge",
 			"George Washington",
@@ -1647,8 +1647,7 @@
 			"James Garfield"
 		],
 		"correct": 3
-
-	}'
+	},
 	{
 		"question": "What is the Bill of Rights?",
 		"answers": [
@@ -1658,7 +1657,7 @@
 			"Congressional Bill that protect human rights"
 		],
 		"correct": 3
-	}'
+	},
 	{
 		"question": "The Constitution was first governing framework in the Untied States?",
 		"answers": [
@@ -1666,7 +1665,7 @@
 			"False"
 		],
 		"correct": 2
-	}'
+	},
 	{
 		"question": "What process can be used as a check on the presidency?",
 		"answers": [
@@ -1676,7 +1675,7 @@
 			"Legislative oversight"
 		],
 		"correct": 3
-	}'
+	},
 	{
 		"question": "Who is the only President to serve two non-consecutive terms?",
 		"answers": [
@@ -1686,7 +1685,7 @@
 			"Franklin Delano Roosevelt"
 		],
 		"correct": 3
-	}'
+	},
 	{
 		"question": "When two or more candidates are running from the same political party, what must a candidate win in order to be the sole candidate for their political party?",
 		"answers": [
@@ -1696,26 +1695,26 @@
 			"The Primary"
 		],
 		"correct": 4
-	}'
+	},
 	{
 		"question": "Which of teh following does NOT refer to something that might be used by the President or the Executive Branch?",
 		"answers": [
-			"Pocket veto"
-			"Plausible Deniablity"
-			"Cloture"
+			"Pocket veto",
+			"Plausible Deniablity",
+			"Cloture",
 			"Executive Privilege"
 		],
 		"correct": 3
-	}'
+	},
 	{
 		"question:: Which branch of U.S. government can decide how tax money is spent?",
 		"answers": [
-			"Legislative"
-			"Executive"
+			"Legislative",
+			"Executive",
 			"Judicial"
 		],
 		"correct": 1
-	}'
+	},
 	{
 		"question": "Which office has a 4 year term?",
 		"answers": [
@@ -1723,18 +1722,18 @@
 			"House of Representatives",
 			"President",
 			"Supreme court"
-		[,
+		],
 		"correct": 3
-	}'
+	},
 	{	
 		"question": "Which branch of U.S. government nominates cabinet members?",
 		"answers": [
 			"legislative",
 			"executive",
 			"Judicial"
-		[,
+		],
 		"correct": 2
-	}'
+	},
 	{
 		"question": "How many people are in the Senate?",
 		"answers": [
@@ -1742,46 +1741,46 @@
 			"150"
 			"100"
 			"435"
-		[,
+		],
 		"correct": 3
-	}'
+	},
 	{
-		"question": "Which branch of U.S. government can declare laws unconsitutional?, 
+		"question": "Which branch of U.S. government can declare laws unconsitutional?", 
 		"answers": [
 			"Legislative",
 			"Executive",
 			"Judicial"
-		[,
+		],
 		"correct": 3
-	}'
+	},
 	{
-		"question": "Which branch of U.S. government can declare war"?
+		"question": "Which branch of U.S. government can declare war?",
 		"answers": [
-			"legislative"
-			"executive"
+			"legislative",
+			"executive",
 			"Judicial"
-		[, 
+		], 
 		"correct": 1
-	}'
+	},
 	{	
 		"question": "Which branch of U.S. goverment has the power to sign treaties?",
 		"answers": [
-			"legislative"
-			"executive" 
+			"legislative",
+			"executive",
 			"judicial" 
-		[,
+		],
 		"correct": 2
-	}'
+	},
 	{
 		"question": "Which office has a two year term?",
 		"answers": [
-			"Senate"
-			"House of Represenatatives"
-			"President" 
+			"Senate",
+			"House of Represenatatives",
+			"President",
 			"Supreme Court"
-		[,
+		],
 		"correct": 2
-	}'
+	},
 	{
 		"question": "Which office has a life long term?",
 		"answers": [
@@ -1789,18 +1788,18 @@
 			"House of Represenatives",
 			"President",
 			"Supreme Court"
-		[,
+		],
 		"correct": 4
-	}'
+	},
 	{
 		"question": "Which branch of U.S. government approves nominated ambassadors?",
-		"answers": [
+		"answers" : [
 			"Legislative",
 			"Executive",
 			"Judicial"
-		[,
+		],
 		"correct": 2
-	}'
+	},
 	{
 		"question": "Who is in charge of the executive branch?",
 		"answers": [ 
@@ -1808,9 +1807,9 @@
 			"the prime minis†er",
 			"the president",
 			"the chief justice"
-		[,
+		],
 		 "correct": 3
-	}'
+	},
 	{
 		"question": "Who is the commander in chief of the military?",
 		"answers": [
@@ -1818,9 +1817,9 @@
 			"the vice president",
 			"the secretary of defense",
 			"the attorney general"
-		[,
+		],
 		"correct": 1
-	}'
+	},
 	{
 		"question": "what stops one branch of government from becoming too powerful?",
 		"answers": [
@@ -1828,9 +1827,9 @@
 			"checks and balances",
 			"the people",
 			"freedom of speech"
-		[,
+		],
 		 "correct": 2
-	}'
+	},
 	{
 		"question": "If both the president and the vice president can no longer serve, who becomes president?",
 		"answers": [
@@ -1838,9 +1837,9 @@
 			"speaker of the house",
 			"governor of the most populous state",
 			"chief justice of the supreme court"
-		[,
+		],
 		"correct": 2
-	}'
+	},
 	{
 		"question": "we elect a president for how many years?",
 		"answers": [
@@ -1848,7 +1847,7 @@
 			"two",
 			"six",
 			"four"
-		[,
+		],
 		 "correct": 4
 	}'
 	{
@@ -1858,9 +1857,9 @@
 			"congress shall make",
 			"we the colonists",
 			"make america great"
-		[,
+		],
 		"correct": 1
-	}'
+	},
 	{
 		"question": "What are the two major political parties in the united states today?",
 		"answers": [
@@ -1868,9 +1867,9 @@
 			"democratic republican and whig",
 			"american and bull moose",
 			"democrat and republican"
-		[,
+		],
 		 "correct": 4
-	}'
+	},
 	{
 		"question": "How old do citizens have to be to vote in the presidental election?",
 		"answers": [
@@ -1878,9 +1877,9 @@
 			"sixteen",
 			"twenty two",
 			"eighteen"
-		[,
+		],
 		"correct": 4
-	}'
+	},
 	{
 		"question": "what happened at the constitutional convention?",
 		"answers": [
@@ -1888,9 +1887,9 @@
 			"the emancipation proclamation was written",
 			"the constitution was written",
 			"the virginia declaration of rights was written"
-		[,
+		],
 		 "correct": 3
-	}'
+	},
 	{
 		"question": "How many amendments does the constitution have?",
 		"answers": [
@@ -1898,9 +1897,9 @@
 			"eighteen",
 			"twenty five",
 			"twenty seven"
-		[,
+		],
 		"correct": 4
-	}'
+	},
 	{
 		"question": "What does the judicial branch do?",
 		"answers": [
@@ -1908,9 +1907,9 @@
 			"reviews laws",
 			"resolves disputes",
 			"all of the above"
-		[,
+		],
 		 "correct": 4
-	}'
+	},
 	{
 		"question": "Who wrote the declaration of independence?",
 		"answers": [
@@ -1918,9 +1917,9 @@
 			"james madison",
 			"george washington",
 			"thomas jefferson"
-		[,
+		],
 		"correct": 4
-	}'
+	},
 	{
 		"question": "The house of represenatives has how many voting members?",
 		"answers": [
@@ -1928,19 +1927,19 @@
 			"four hundred thirty five",
 			"two hundred",
 			"one hundred"
-		[,
-		 "correct: 2
-	}'
+		],
+		 "correct": 2
+	},
 	{
 		"question": "what is the capital of the united states?",
 		"answers": [
 			"St. Louis, MO",
 			"Olympia, WA",
 			"New York",
-			"Washington, DC
-		[,
-		"correct: 4
-	}'
+			"Washington, DC"
+		],
+		"correct": 4
+	},
 	{
 		"question": "That are the two parts of the U.S. Congress?",
 		"answers": [
@@ -1948,9 +1947,9 @@
 			"the house of the lords and the house of commons",
 			"the senate and the house of represenatives",
 			"the senate and the courts"
-		[,
+		],
 		 "correct": 3
-	}'
+	},
 	{
 		"question": "What is one right or freedom granted by the first amendment?",
 		"answers": [
@@ -1958,9 +1957,9 @@
 			"to vote",
 			"to bear arms",
 			"speech"
-		[,
+		],
 		"correct": 4
-	}'
+	},
 	{
 		"question": "What did the emancipation proclamation do?"
 		"answers": [
@@ -1968,9 +1967,9 @@
 			"gave women the right to vote",
 			"gave the united states independence from great britain",
 			"ended world war one"
-		[,
+		],
 		"correct": 1
-	}'
+	},
 	{
 		"question": "what is the title of the highest political official in a U.S. state?",
 		"answers": [
@@ -1978,9 +1977,9 @@
 			"lieutenant governor",
 			"senate president",
 			"chief of police"
-		[,
+		],
 		"correct": 1
-	}'
+	},
 	{
 		"question": "What is the supreme law of the land?",
 		"answers": [
@@ -1988,8 +1987,10 @@
 			"the constitution",
 			"the emancipation proclamation",
 			"the declaration of independence"
-		[,
+		],
 		"correct": 2
+	}
+]
 	
 		
 		
