@@ -3710,7 +3710,7 @@
  			"4 years",
  			"6 years",
 			"8 years"
- 		],		 		],
+ 		],
  		"correct": 3
  	},
  	{
@@ -3731,7 +3731,7 @@
  			  "senate and house",
  			  "executive, legislative, and judicial"
  	       ],
-                "correct": 4
+        "correct": 4
    	},
  	{
  		"question": "In order to win the Presidency, the candidate must recieve the most individual votes",
@@ -3752,7 +3752,7 @@
  		"correct": 1
  	},
  	{
- 		"question: 'What position does the Vice President hold in the Legislative branch?",
+ 		"question": "What position does the Vice President hold in the Legislative branch?",
  		"answers": [
  			"Lord Chancellor",
  			"President of the Senate",
@@ -3840,7 +3840,7 @@
  		"correct": 3
  	},
  	{
- 		"question:: Which branch of U.S. government can decide how tax money is spent?",
+ 		"question": "Which branch of U.S. government can decide how tax money is spent?",
  		"answers": [
  			"Legislative",
  			"Executive",
@@ -3870,9 +3870,9 @@
  	{
  		"question": "How many people are in the Senate?",
  		"answers": [
- 			"50"
- 			"150"
- 			"100"
+ 			"50",
+ 			"150",
+ 			"100",
  			"435"
  		],
  		"correct": 3
@@ -3982,7 +3982,7 @@
  			"four"
  		],
  		 "correct": 4
- 	}'
+ 	},
  	{
  		"question": "The idea of self government is in the first three words of the constitution. What are those words?",
  		"answers": [
@@ -4094,7 +4094,7 @@
  		"correct": 4
  	},
  	{
- 		"question": "What did the emancipation proclamation do?"
+ 		"question": "What did the emancipation proclamation do?",
  		"answers": [
  			"freed slaves in most southern states",
  			"gave women the right to vote",
@@ -4116,10 +4116,11 @@
  	{
  		"question": "What is the supreme law of the land?",
  		"answers": [
- 			"the article of confederation"
+ 			"the article of confederation",
  			"the constitution",
  			"the emancipation proclamation",
  			"the declaration of independence"
  		],
-		}
+		"correct": 1
+	}
 ]
