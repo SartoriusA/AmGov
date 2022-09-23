@@ -3702,14 +3702,16 @@
 			"Congress"
 		],
 		"correct":2
-	}		"question": "How long is a U.S. Senator's term?",
- 		"answers": [		 		"answers": [
- 			"2 years",		 			"2 years",
- 			"4 years",		 			"4 years",
- @@ -1579,5 +1579,422 @@
- 			"Joe Biden"		 			"Joe Biden"
+	},
+	{
+		"question": "How long is a U.S. Senator's term?",
+ 		"answers": [
+ 			"2 years",
+ 			"4 years",
+ 			"6 years",
+			"8 years"
  		],		 		],
- 		"correct": 3		 		"correct": 3
+ 		"correct": 3
  	},
  	{
  		"question": "How long is a U.S Senator's term?",
@@ -4119,4 +4121,5 @@
  			"the emancipation proclamation",
  			"the declaration of independence"
  		],
+		}
 ]
